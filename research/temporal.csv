@@ -1,0 +1,6 @@
+data
+"{'pineapple': 1, 'orange': 1}"
+{}
+"{'apple': 1, 'pineapple': 1, 'orange': 1}"
+"{'pineapple': 1, 'orange': 1}"
+"{'pineapple': 1, 'orange': 3, 'apple': 1}"
