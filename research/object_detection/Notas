@@ -1,6 +1,6 @@
-- Añadir carpetas y ficheros a una instalación del Object Detection API de Tensorflow.
+- Añadir carpetas y ficheros a una instalación de Object Detection API de Tensorflow.
 - Bajar los dos modelos preentrenados planteados "faster_rcnn_inception_v2_coco_2018_01_28" 
   y "faster_rcnn_resnet101_coco_2018_01_28"
-- Entrenar ambos modelos usando fine-tuning con las imágenes contenidas en images/train
+- Entrenar ambos modelos, fine-tuning con las imágenes contenidas en images/train
 - Evaluar ambos modelos con las imágenes contenidas en images/test
-- Comprobar los modelos ajustados con las imágenes contenidas en test_images/ para los 75 dias de estudio.
+- Comprobar los modelos ajustados con las imágenes contenidas en test_images/ (hasta 75 dias de estudio).
